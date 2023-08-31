@@ -9,7 +9,7 @@ def get_number(word: str) -> int:
             number = int(input(f'Enter the {word} integer: '))
             break
         except ValueError:
-            print(f'You entered the wrong integer!!\n')
+            print(f'You entered the wrong integer. Try again!\n')
             continue
     return number
 

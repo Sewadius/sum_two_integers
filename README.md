@@ -1,3 +1,5 @@
+#sum_two_integers
+
 The programme counts the sum for two integers:
 
 - check user input for integers
