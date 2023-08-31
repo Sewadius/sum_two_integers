@@ -1,6 +1,6 @@
-Программа считает сумму для двух целых чисел:
+The programme counts the sum for two integers:
 
-- проверка пользовательского ввода на целые числа
-- повторный ввод при неверных данных от пользователя
-- вывод сообщения о результате
-- получение чисел через отдельную функцию из файла my_func.py
+- check user input for integers
+- re-entry in case of incorrect user input
+- output a message about the result
+- obtaining numbers through a separate function from the file my_func.py
